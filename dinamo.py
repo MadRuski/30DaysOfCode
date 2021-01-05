@@ -1,4 +1,4 @@
-#HONI 2019./2020. 1.kolo 1.zadatak Dinamo
+#HONI 2019./2020. 1.kolo 1.zadatak Dinamo.py
 a=int(input())
 c=int(input())
 s=int(input())
