@@ -7,3 +7,4 @@ for i in range(n):
     l[i]=list(map(str,input().split()))
     l1.append(int(l[i][0]+l[i][1]))
 print (sum(l1))
+#Author: Matej Ban
