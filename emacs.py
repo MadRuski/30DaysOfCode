@@ -1,3 +1,4 @@
+#HONI 2019/2020 5.KOLO 3.ZAD emacs.py
 x,y=map(int,input().split())
 l=[]
 for i in range(x):
