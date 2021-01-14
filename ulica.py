@@ -1,3 +1,4 @@
+#HONI 2019/2020 6.KOLO 2.ZAD ulica.py
 n=int(input())
 l=list(map(int,input().split()))
 l2=[]
