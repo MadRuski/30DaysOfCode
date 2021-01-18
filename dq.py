@@ -14,8 +14,6 @@ for i in range(1,10):
     html = urlopen(req).read()
     print(req.full_url)
     
-     
-
     soup = BeautifulSoup(html, 'html.parser')
 
     nice=soup.find_all("div", class_="clearfix")
